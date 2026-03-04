@@ -9,6 +9,6 @@
   "author": "Josue Avelar",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.5.1"
+    "jest": "^30.2.0"
   }
 }
