@@ -8,6 +8,9 @@
   },
   "author": "Josue Avelar",
   "license": "ISC",
+  "override":{
+    "js-yaml": "^3.14.2"
+  },
   "devDependencies": {
     "jest": "^30.4.2"
   }
